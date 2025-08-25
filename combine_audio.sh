@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Path to ZIP file to extract
-zip_file="/Users/kazuyasumino/Downloads/lesson_recordings.zip"
+zip_file="/Users/YOUR-NAME/Downloads/lesson_recordings.zip"
 # Extraction destination directory
 input_dir="$HOME/Downloads/lesson_recordings"
 # Output directory
-output_dir="/Users/kazuyasumino/Library/CloudStorage/Dropbox/Preply_audio/"
+output_dir="/Users/YOUR-NAME/Library/CloudStorage/Dropbox/Preply_audio/"
 # Get today's date
 current_date=$(date +%Y_%m_%d)
 # Output file name (mp3 format)
